@@ -1,59 +1,119 @@
 {
   "DATA": {
-	"https://upload.vikingfile.com/toNRkp61D5/Netflix.pkg": {
+	"https://vikingfile.com/f/LsO7NQdOLm": {
       "title_id": "CUSA00127",
       "region": "EUR",
-      "name": "Netflix",
+      "name": "Netflix Active link",
+      "version": "1.53",
+      "release": "17-02-2025",
+      "size": 0,
+      "min_fw": "9.00+",
+      "cover_url": "https://i.imgur.com/vQSutLE.png"
+	},
+	  "https://es.vikingfile.com/download/KSiEM6Cpx9/Netflix.pkg": {
+      "title_id": "CUSA00127",
+      "region": "EUR",
+      "name": "Netflix Download",
       "version": "1.53",
       "release": "17-02-2025",
       "size": 63963136,
       "min_fw": "9.00+",
       "cover_url": "https://i.imgur.com/vQSutLE.png"
 	},
-    "https://upload.vikingfile.com/Gums1JY2Xd/Prime-Video.pkg": {
+    "https://vikingfile.com/f/GIOwFVKG6e": {
       "title_id": "CUSA00126",
       "region": "USA",
-      "name": "Amazon Prime",
+      "name": "Amazon Prime Active link",
+      "version": "1.00",
+      "release": "17-02-2025",
+      "size": 0,
+      "min_fw": "5.05",
+      "cover_url": "https://i.imgur.com/6A5hUR7.png"
+	 },
+    "https://es.vikingfile.com/download/x75rcwI46l/Prime-Video.pkg": {
+      "title_id": "CUSA00126",
+      "region": "USA",
+      "name": "Amazon Prime Download",
       "version": "1.00",
       "release": "17-02-2025",
       "size": 65142784,
       "min_fw": "5.05",
       "cover_url": "https://i.imgur.com/6A5hUR7.png"
 	 },
-	"https://upload.vikingfile.com/PKbveYKmpc/Apple%20TV.pkg": {
+	  "https://vikingfile.com/f/ZsT2a9XYEt": {
       "title_id": "CUSA24386",
       "region": "USA",
-      "name": "Apple TV",
+      "name": "Apple TV Active link",
+      "version": "1.11",
+      "release": "17-02-2025",
+      "size": 0,
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/o1SvLLk.png"
+	},
+	  "https://es.vikingfile.com/download/633znJc38l/Apple%20TV.pkg": {
+      "title_id": "CUSA24386",
+      "region": "USA",
+      "name": "Apple TV Download ",
       "version": "1.11",
       "release": "17-02-2025",
       "size": 132120576,
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/o1SvLLk.png"
 	},
-	"https://upload.vikingfile.com/dmvqPjXZjq/Consolepedia%203D.pkg": {
+	"https://vikingfile.com/f/HOtzB9s9Up": {
       "title_id": "VTHX21368",
       "region": "USA",
-      "name": "Consolepedia 3D",
+      "name": "Consolepedia 3D Active link",
+      "version": "1.32",
+      "release": "17-02-2025",
+      "size": 0,
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/oE9cExJ.png"
+	},
+	  "https://ab.vikingfile.com/download/G5XAPn6DMA/Consolepedia%203D.pkg": {
+      "title_id": "VTHX21368",
+      "region": "USA",
+      "name": "Consolepedia 3D Download",
       "version": "1.32",
       "release": "17-02-2025",
       "size": 253755392,
       "min_fw": "5.05+",
       "cover_url": "https://i.imgur.com/oE9cExJ.png"
 	},
-	"https://upload.vikingfile.com/XMyA3S0HcM/Pluto%20TV.pkg": {
+	"https://vikingfile.com/f/Jx2lJ4OPqF": {
       "title_id": "CUSA04688",
       "region": "USA",
-      "name": "Pluto TV",
+      "name": "Pluto TV Active link",
+      "version": "3.43",
+      "release": "17-02-2025",
+      "size": 0,
+      "min_fw": "6.72+",
+      "cover_url": "https://i.imgur.com/JKvmKa4.png"
+	},
+	  "https://es.vikingfile.com/download/srRJYd93MU/Pluto%20TV.pkg": {
+      "title_id": "CUSA04688",
+      "region": "USA",
+      "name": "Pluto TV Download",
       "version": "3.43",
       "release": "17-02-2025",
       "size": 53084160,
       "min_fw": "6.72+",
       "cover_url": "https://i.imgur.com/JKvmKa4.png"
 	},
-	"https://upload.vikingfile.com/1T2xkY6LRh/Twitch.pkg": {
+	"https://vikingfile.com/f/CdbOqPuDQl": {
       "title_id": "CUSA03285",
       "region": "USA",
-      "name": "Twitch",
+      "name": "Twitch Active link",
+      "version": "1.00",
+      "release": "17-02-2025",
+      "size": 0,
+      "min_fw": "5.05",
+      "cover_url": "https://i.imgur.com/8ugrPHr.png"
+	},
+	  "https://es.vikingfile.com/download/9vmteoTfoC/Twitch.pkg": {
+      "title_id": "CUSA03285",
+      "region": "USA",
+      "name": "Twitch Download",
       "version": "1.00",
       "release": "17-02-2025",
       "size": 97583104,
