@@ -120,20 +120,40 @@
       "min_fw": "5.05",
       "cover_url": "https://i.imgur.com/8ugrPHr.png"
 	},
-	"https://upload.vikingfile.com/Aiofc10Sgn/PS4%20Player.pkg": {
+	"https://vikingfile.com/f/HPaBqSemUB": {
       "title_id": "LAPY20002",
       "region": "USA",
-      "name": "PS4 Player",
+      "name": "PS4 Player Active link",
+      "version": "1.07",
+      "release": "17-02-2025",
+      "size": 0,
+      "min_fw": "5.05",
+      "cover_url": "https://i.imgur.com/myBM3lL.png"
+	},
+	  "https://du.vikingfile.com/download/X27D97zYk8/PS4%20Player.pkg": {
+      "title_id": "LAPY20002",
+      "region": "USA",
+      "name": "PS4 Player Download",
       "version": "1.07",
       "release": "17-02-2025",
       "size": 52428800,
       "min_fw": "5.05",
       "cover_url": "https://i.imgur.com/myBM3lL.png"
 	},
-	"https://upload.vikingfile.com/eti5l6ZNaV/Youtube.pkg": {
+	"https://vikingfile.com/f/lTDnmOcFzr": {
       "title_id": "CUSA01015",
       "region": "USA",
-      "name": "YouTube",
+      "name": "YouTube Active link",
+      "version": "2.32",
+      "release": "17-02-2025",
+      "size": 0,
+      "min_fw": "5.05",
+      "cover_url": "https://i.imgur.com/h2XvrcZ.jpeg"
+    },
+"https://ab.vikingfile.com/download/ebyDdIIWhB/Youtube.pkg": {
+      "title_id": "CUSA01015",
+      "region": "USA",
+      "name": "YouTube Download",
       "version": "2.32",
       "release": "17-02-2025",
       "size": 151650304,
