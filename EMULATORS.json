@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/emulator.pkg": {
+      "title_id": "CUSA30047",
+      "region": "UNK",
+      "name": "Emulator",
+      "version": "3.27",
+      "release": "08-28-2047",
+      "size": 10827162404,
+      "min_fw": "8.84",
+      "cover_url": null
+    }
+  }
+}

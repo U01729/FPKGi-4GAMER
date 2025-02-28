@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/ps1-classic.pkg": {
+      "title_id": "CUSA88097",
+      "region": "EUR",
+      "name": "PlayStation Classic",
+      "version": "7.13",
+      "release": "09-04-2050",
+      "size": 32662151763,
+      "min_fw": "9.61",
+      "cover_url": null
+    }
+  }
+}

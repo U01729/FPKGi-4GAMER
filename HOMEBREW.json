@@ -1,0 +1,255 @@
+{
+  "DATA": {
+    "https://upload.vikingfile.com/PkjYsitgqw/Unofficial%20RetroArch.pkg": {
+      "title_id": "SSNE10000",
+      "region": "EUR",
+      "name": "Retroarch",
+      "size": 28835840,
+      "version": "1.10.0",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/cJVinQA.png"
+    },
+	 "https://upload.vikingfile.com/1DW150vRvW/RetroArch%20Core%20Installer.pkg": {
+      "title_id": "SSNE20000",
+      "region": "EUR",
+      "name": "Retroarch Cores Installer",
+      "size": 1452474368,
+      "version": "1.10.0",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/cJVinQA.png"
+    },
+	"https://upload.vikingfile.com/tZQsKQ3ite/Payload%20Guest.pkg": {
+      "title_id": "AZIF00003",
+      "region": "EUR",
+      "name": "Payload Guest",
+      "size": 33554432,
+      "version": "1.00",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/Nd2fCLt.jpeg"
+    },
+	"https://upload.vikingfile.com/ZB0d78PEWi/Apollo%20Save%20Tool.pkg": {
+      "title_id": "APOL00004",
+      "region": "EUR",
+      "name": "PS4 Apollo Save Tool",
+      "size": 15728640,
+      "version": "2.00",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/RtZ4AjU.png"
+    },
+	"https://upload.vikingfile.com/CYo8UN5t4B/PS4%20WebDAV%20Client.pkg": {
+      "title_id": "WDVC00001",
+      "region": "EUR",
+      "name": "PS4 Webdav Client",
+      "size": 36044800,
+      "version": "1.04",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/VdThh1C.png"
+    },
+	"https://upload.vikingfile.com/Jbas1huNKd/PS4-Xplorer%205.05-9.00.pkg": {
+      "title_id": "LAPY20001",
+      "region": "EUR",
+      "name": "PS4 Xplorer",
+      "size": 73531392,
+      "version": "1.34",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/JOaOjdo.png"
+    },
+	"https://upload.vikingfile.com/TRBvWfYJOx/itmZflow.pkg": {
+      "title_id": "ITEM00001",
+      "region": "EUR",
+      "name": "ItemzFlow Game Manager",
+      "size": 27262976,
+      "version": "1.06",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/5kPG3IC.png"
+    },
+	"https://upload.vikingfile.com/XmqSrkXNMW/PS4%20Cheats%20Manager.pkg": {
+      "title_id": "CHTM00777",
+      "region": "EUR",
+      "name": "PS4 Cheats Manager",
+      "size": 18874368,
+      "version": "1.2.2",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/8288muI.png"
+    },
+	"https://upload.vikingfile.com/TH60qUxQ8D/PS4%20Temperature.pkg": {
+      "title_id": "CHTM00777",
+      "region": "EUR",
+      "name": "PS4 Temperature",
+      "size": 18879368,
+      "version": "1.07",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/CIP0hDz.png"
+    },
+	"https://upload.vikingfile.com/m6y0oHLN6J/Remote%20PKG%20installer.pkg": {
+      "title_id": "FLTZ00003",
+      "region": "EUR",
+      "name": "Remote PKG Installer",
+      "size": 4259840,
+      "version": "1.02",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/qGpvuZs.png"
+    },
+    "https://upload.vikingfile.com/IZMKiqyDtp/HBSTOR.pkg": {
+      "title_id": "NPXS39041",
+      "region": "EUR",
+      "name": "HemBews Store",
+      "size": 24772608,
+      "version": "1.00",
+      "release": "17-02-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://i.postimg.cc/XNk1S8J5/Picsart-25-02-14-07-58-22-320.jpg"
+	 },
+	 "https://upload.vikingfile.com/RosWEpjKHL/Senua_s%20Saga%20Hellblade%20II.pkg": {
+      "title_id": "LAPY10025",
+      "region": "USA",
+      "name": "Senua's Saga Hellblade II",
+      "version": "1.04",
+      "release": "17-02-2025",
+      "size": 60358656,
+      "min_fw": "5.05",
+      "cover_url": "https://i.imgur.com/O7poOEc.png"
+	 },
+	"https://upload.vikingfile.com/V1VXax52uX/PS4%20Controller%20Homebrew.pkg": {
+      "title_id": "NPXX51364",
+      "region": "EUR",
+      "name": "PS4 Controller Homebrew",
+      "size": 115212288,
+      "version": "1.00",
+      "release": "17-02-2025",
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/vv8n7FE.png"
+	 },
+	"https://upload.vikingfile.com/ZgswDSQaoC/Live%20Die%20Repeat.pkg": {
+      "title_id": "LAPY10024",
+      "region": "USA",
+      "name": "Live Die Repeat",
+      "version": "1.01",
+      "release": "17-02-2025",
+      "size": 970981376,
+      "min_fw": "5.05",
+      "cover_url": "https://i.imgur.com/lNEESiu.png"
+	  },
+	 "https://upload.vikingfile.com/0kCK9mpYtN/PS4%20TOOLSET.pkg": {
+      "title_id": "SAAT29385",
+      "region": "USA",
+      "name": "PS4 Toolset",
+      "version": "2.20",
+      "release": "17-02-2025",
+      "size": 158334976,
+      "min_fw": "9.00+",
+      "cover_url": "https://i.imgur.com/pz3OU8z.png"
+	  },
+	 "https://upload.vikingfile.com/PAJbjvLlqg/pGEN%20-%20Portable%20Genesis%20Plus%20GX.pkg": {
+      "title_id": "PGEN00001",
+      "region": "USA",
+      "name": "pGEN - Portable Genesis Plus GX",
+      "version": "6.7",
+      "release": "17-02-2025",
+      "size": 48234496,
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/dsEft5s.png"
+	  },
+	 "https://upload.vikingfile.com/UXlsJ9oBoW/Lapy_s%20River%20Raid%20VR.pkg": {
+      "title_id": "LAPY10020",
+      "region": "USA",
+      "name": "Lapy's River Raid VR",
+      "version": "1.00",
+      "release": "17-02-2025",
+      "size": 48234496,
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/nNx8nWP.png"
+	  },
+	 "https://upload.vikingfile.com/HwD7nrZCzc/Lapy%20Games%20Collection.pkg": {
+      "title_id": "LAPY10012",
+      "region": "USA",
+      "name": "Lapy Games Collection",
+      "version": "1.00",
+      "release": "17-02-2025",
+      "size": 191889408,
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/Ru3lrYK.png"
+	  },
+	 "https://upload.vikingfile.com/O4QTrvoAT3/Sonic%20Time%20Twisted.pkg": {
+      "title_id": "OVBD00001",
+      "region": "USA",
+      "name": "Sonic Time Twisted",
+      "version": "1.1.2.1",
+      "release": "17-02-2025",
+      "size": 165675008,
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/ZgTWvb6.png"
+	  },
+	 "https://upload.vikingfile.com/97M1Y2LpBa/Sonic%20SMS%20Remake%202.pkg": {
+      "title_id": "SMSR00002",
+      "region": "USA",
+      "name": "Sonic SMS Remake 2",
+      "version": "2.9.2",
+      "release": "17-02-2025",
+      "size": 65011712,
+      "min_fw": "5.05+",
+      "cover_url": "https://i.imgur.com/EGVw0ss.png"
+	  },
+	 "https://upload.vikingfile.com/60eHuqmQmO/Portable%20Final%20Burn%20Neo.pkg": {
+      "title_id": "PFBN00001",
+      "region": "USA",
+      "name": "Portable Final Burn Neo",
+      "version": "2.9.2",
+      "release": "17-02-2025",
+      "size": 123666432,
+      "min_fw": "6.7",
+      "cover_url": "https://i.imgur.com/3rT4Zi3.png"
+	  },
+	 "https://upload.vikingfile.com/SY3VJs9Sjd/pSNES%20-%20Portable%20Snes9x.pkg": {
+      "title_id": "PSNE00001",
+      "region": "USA",
+      "name": "pSNES - Portable Snes9x",
+      "version": "2.9.2",
+      "release": "17-02-2025",
+      "size": 42598400,
+      "min_fw": "6.7",
+      "cover_url": "https://i.imgur.com/txXI9Gy.png"
+	  },
+	 "https://upload.vikingfile.com/blNJOyJXRo/pNES%20-%20Portable%20Nestopia.pkg": {
+      "title_id": "PNES00001",
+      "region": "USA",
+      "name": "pNES - Portable Nestopia",
+      "version": "2.9.2",
+      "release": "17-02-2025",
+      "size": 41287680,
+      "min_fw": "6.7",
+      "cover_url": "https://i.imgur.com/ue0ECcO.png"
+    },
+    "https://upload.vikingfile.com/IZMKiqyDtp/HBSTOR.pkg": {
+      "title_id": "NPXS39041",
+      "region": "EUR",
+      "name": "HB Store",
+      "size": 24772608,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://i.postimg.cc/XNk1S8J5/Picsart-25-02-14-07-58-22-320.jpg"
+	  },
+    "https://upload.vikingfile.com/R3kOLH36Xc/Nanospeed%20The%20Game.pkg": {
+      "title_id": "LAPY10016",
+      "region": "EUR",
+      "name": "NANOSPEED GAMER",
+      "size": 102825984,
+      "version": "1.00",
+      "release": "2025-01-07 15:09",
+      "min_fw": "5.05+",
+      "cover_url": "https://eu1.akirabox.com/uploads/users/EBnkmW8P3R0y/coQTk2v25PGhWj9H3de-1111.jpg"
+
+    }
+  }
+}

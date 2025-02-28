@@ -1,0 +1,54 @@
+{
+  "DATA": {
+    "https://www.web.site/ps2-classic.pkg": {
+      "title_id": "CUSA37585",
+      "region": "UNK",
+      "name": "PlayStation 2 Classic",
+      "version": "5.01",
+      "release": "04-02-2032",
+      "size": 2929521235,
+      "min_fw": "2.93",
+      "cover_url": null
+    },
+   "https://vikingfile.com/f/AoRcqDITmq": {
+      "title_id": "SCUS97399",
+      "region": "USA",
+      "name": "God of War 1 Arabic Active link",
+      "size": 0,
+      "version": "1.00",
+      "release": "2-3-2005",
+      "min_fw": "5.05",
+      "cover_url": "https://2.bp.blogspot.com/-GKRKBYvMvyg/XlTOYfTNmoI/AAAAAAAAZAA/dKhCvOQN_sIfZItB_VgL2WITt9mKZkdSgCLcBGAsYHQ/s1600/127.jpg"
+  },  	
+   "https://upload.vikingfile.com/jMl2DmOGjF/God%20of%20War%202005%20Arabic%20Fixed.pkg": {
+      "title_id": "SCUS97399",
+      "region": "USA",
+      "name": "God of War 1 Arabic Download",
+      "size": 2899102924,
+      "version": "1.00",
+      "release": "2-3-2005",
+      "min_fw": "5.05",
+      "cover_url": "https://2.bp.blogspot.com/-GKRKBYvMvyg/XlTOYfTNmoI/AAAAAAAAZAA/dKhCvOQN_sIfZItB_VgL2WITt9mKZkdSgCLcBGAsYHQ/s1600/127.jpg"
+  },
+   "https://vikingfile.com/f/lqR3rXnDEt": {
+      "title_id": "SCUS97399",
+      "region": "USA",
+      "name": "God of War 2 Arabic Active link",
+      "size": 0,
+      "version": "1.00",
+      "release": "2-3-2005",
+      "min_fw": "5.05",
+      "cover_url": "https://2.bp.blogspot.com/-GKRKBYvMvyg/XlTOYfTNmoI/AAAAAAAAZAA/dKhCvOQN_sIfZItB_VgL2WITt9mKZkdSgCLcBGAsYHQ/s1600/127.jpg"
+  },  	
+   "https://upload.vikingfile.com/YkhXu5gszj/GOW2.pkg": {
+      "title_id": "SCUS97399",
+      "region": "USA",
+      "name": "God of War 2 Arabic Download",
+      "size": 3350074490,
+      "version": "1.00",
+      "release": "2-3-2005",
+      "min_fw": "5.05",
+      "cover_url": "https://2.bp.blogspot.com/-GKRKBYvMvyg/XlTOYfTNmoI/AAAAAAAAZAA/dKhCvOQN_sIfZItB_VgL2WITt9mKZkdSgCLcBGAsYHQ/s1600/127.jpg"
+    }
+  }
+}

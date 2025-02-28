@@ -1,0 +1,14 @@
+{
+  "DATA": {
+    "https://www.web.site/psp-remaster.pkg": {
+      "title_id": "CUSA02219",
+      "region": "ASIA",
+      "name": "PSP Remaster",
+      "version": "3.87",
+      "release": "01-28-2037",
+      "size": 32572788059,
+      "min_fw": "5.83",
+      "cover_url": null
+    }
+  }
+}
