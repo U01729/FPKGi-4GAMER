@@ -660,6 +660,16 @@
       "min_fw": "5.05+",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/28-1.jpg"
   },
+	  "https://store4.gofile.io/download/direct/974062e4-c947-4008-ace7-c32f59e0c68d/CUSA03173-Game-PRELUDE-%5BDLPSGAME.COM%5D.pkg": {
+      "title_id": "CUSA03173",
+      "region": "EUR",
+      "name": "Battlefield 1",
+      "size": 31351111680,
+      "version": "1.00",
+      "release": "2022",
+      "min_fw": "5.05+",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/28-1.jpg"
+  },
     "https://store6.gofile.io/download/direct/993ea18d-6bb1-49e5-b1a0-d98b923985b1/GAME-Ghost.of.Tsushima_CUSA13323_FULLGAME_v2.24_%5B9.00-11.00%5D_OPOISSO893.pkg": {
       "title_id": "CUSA13323",
       "region": "EUR",
@@ -683,7 +693,7 @@
     "https://store-eu-par-4.gofile.io/download/direct/6e394414-9b15-45cc-a9de-74ed304cb391/GAME-EP1001-CUSA17761_00-MAFIATWOREMASTER-A0100-V0100.pkg": {
       "title_id": "CUSA17761",
       "region": "EUR",
-      "name": "Mafia 2 Definitive Edition",
+      "name": "Mafia Definitive Edition",
       "size": 45580340429,
       "version": "1.00",
       "release": "2020",
@@ -721,6 +731,16 @@
       "cover_url": "https://1.bp.blogspot.com/-xcEKBwurxzc/Yb9rGvNYadI/AAAAAAAAMVc/Q8lZgihRkSk1HAsPSsKuXE_2xzgqufE3wCNcBGAsYHQ/h300/8.jpg"
 	}, 		
     "https://store10.gofile.io/download/direct/82afef3f-b03b-48d8-8130-f319302a1d0d/UP1004-CUSA00411_00-GTAVDIGITALDOWNL-A0100-V0100.pkg": {
+      "title_id": "CUSA00411",
+      "region": "USA",
+      "name": "Grand Theft Auto: V",
+      "size": 44452911513,
+      "version": "1.00",
+      "release": "2018",
+      "min_fw": "5.05+",
+      "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
+	},
+	  "https://store4.gofile.io/download/direct/524c41d9-d53c-4427-a8ed-1868b491640c/UP1004-CUSA00419_00-GTAVDIGITALDOWNL-A0149-V0100-lso-v4.pkg": {
       "title_id": "CUSA00419",
       "region": "USA",
       "name": "Grand Theft Auto: V",
